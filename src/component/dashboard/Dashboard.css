@@ -1,0 +1,25 @@
+.main-badges{display: flex;justify-content: space-between; margin: 10px;}
+
+.messages{
+background-color:rgb(155, 79, 226);
+}
+.contacts{
+background-color: rgb(201, 201, 47);
+}
+.leads{
+background-color: rgb(26, 119, 26);
+}
+.earnings{
+background-color: rgb(235, 70, 70);
+}
+.dashboard-main{padding: 10px;}
+.common-badge{border-radius: 3px;padding:15px 0;width: 20%;text-align: center;}
+.common-badge p{color: white;font-weight: bold;}
+.common-badge h1{color: white;font-weight: bold;margin-top: 3px;}
+
+.details-table {border: 1px solid #ddd; border-collapse: collapse;
+    width: 98%;margin:20px 10px;}
+.details-table tr{}
+
+.details-table th{border: 1px solid #ddd;text-align: left;padding: 10px;}
+.details-table td{border: 1px solid #ddd;padding: 10px;}
